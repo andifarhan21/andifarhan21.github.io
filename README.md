@@ -12,7 +12,7 @@
       <div class="container">
         <a id="header-title" href="https://andifarhan21.github.io/Atom1/index.html">My BloG</a>
         <ul id="header-nav">
-          <li><a href="\D:\CODING\Atom1\about.html">About</a></li>
+          <li><a href="https://andifarhan21.github.io/Atom1/about.html">About</a></li>
           <li><a href="mailto:andifarhanhakzah@gmail.com">Contact me</a></li>
         </ul>
       </div>
@@ -47,7 +47,7 @@
       <div class="post-container">
         <div class="post">
           <div class="post-author">
-            <img id="author-pic" src="\D:\CODING\5\the pla horse.jpg">
+            <img id="author-pic" src="https://andifarhan21.github.io/Atom1/the%20pla%20horse.jpg">
             <span>Andi Farhan GANTENG SEKALI</span>
           </div>
           <p class="post-date">Today</p>
